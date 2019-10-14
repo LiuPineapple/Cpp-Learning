@@ -1,2 +1,2 @@
 # Cpp-Learning
-Use this to learn C++
+Use this repository to learn C++
