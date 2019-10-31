@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/10/31 9:36:21。
+     1>项目“D:\Git_repositories\Cpp-Learning\Practice2_职工管理系统\职工管理系统项目\职工管理系统项目.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Software\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Worker_Manager.cpp
+         Worker_Manager.cpp
+       Link:
+         D:\Software\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git_repositories\Cpp-Learning\Practice2_职工管理系统\Debug\职工管理系统项目.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Git_repositories\Cpp-Learning\Practice2_职工管理系统\Debug\职工管理系统项目.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git_repositories\Cpp-Learning\Practice2_职工管理系统\Debug\职工管理系统项目.lib" /MACHINE:X86 Debug\Boss.obj
+         Debug\Employee.obj
+         Debug\Manager.obj
+         Debug\Worker.obj
+         Debug\Worker_Manager.obj
+         "Debug\职工管理系统.obj"
+         职工管理系统项目.vcxproj -> D:\Git_repositories\Cpp-Learning\Practice2_职工管理系统\Debug\职工管理系统项目.exe
+     1>已完成生成项目“D:\Git_repositories\Cpp-Learning\Practice2_职工管理系统\职工管理系统项目\职工管理系统项目.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.58
